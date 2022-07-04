@@ -22,7 +22,7 @@ package main.day8;
             return 0;
         }
 
-        public class uc1empwage {
+        public double CalculateEmpwage() {
             public double calculateEmpWage() {
                 int totalWorkingHour = 0;
                 int day = 0;
