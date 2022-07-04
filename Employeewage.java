@@ -39,3 +39,13 @@ package main.day8;
                 return salary;
             }
 
+            public static void main(String[] args) {
+                System.out.println("Welcome to EmployeeWage Computation using OOPs!!!");
+                System.out.println();
+                Employeewage empWageBuilder = new Employeewage();
+                empWageBuilder.calculateEmpWage();
+            }
+        }
+    }
+
+
